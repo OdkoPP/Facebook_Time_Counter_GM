@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name        Facebook Time Counter
 // @namespace   TimeCounter
+// @author      OdkoPP
 // @include     http*://www.facebook.com/*
 // @description Plugin to count time spent on Facebook
 // @version     1
